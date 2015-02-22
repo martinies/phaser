@@ -35,7 +35,7 @@ var Phaser = Phaser || {
     RENDERTEXTURE: 8,
     TILEMAP: 9,
     TILEMAPLAYER: 10,
-    EMITTER: 11,
+    EMITTER: 0,
     POLYGON: 12,
     BITMAPDATA: 13,
     CANVAS_FILTER: 14,
